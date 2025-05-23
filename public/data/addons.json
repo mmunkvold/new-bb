@@ -1,0 +1,51 @@
+[
+    {
+        "id": 101,
+        "name": "Rohloff 14-gir",
+        "image": {
+            "src" : "/images/products/addons/rohloff.jpeg",
+            "altText" : "Sølvfarget Rohloff 14-girs nav for sykkel, kjent for sin slitestyrke og brede girutveksling"
+        },
+        "description": "Svært lite vedlikehold. Svært lite vedlikehold. 526% forskjell mellom 1. og 14. gir.",
+        "variants": [
+            {
+                "bike": "HandbikeH",
+                "artnr": "25396.K",
+                "hmsnr": "314690"
+            },
+            {
+                "bike": "KettwieselEP8",
+                "artnr": "25108.K",
+                "hmsnr": "314691"
+            }
+        ],
+        "compatible_products": [2,4],
+        "is_negotiated": true
+    },
+    {
+        "id": 102,
+        "name": "Enviolo automatgir",
+        "image": {
+            "src" : "/images/products/addons/nuvinci.jpeg",
+            "altText" : "Nærbilde av enviolo girnav, som illustrerer den trinnløse teknologien"
+        },
+        "description": "Svært lite vedlikehold. 380% forskjell mellom laveste og høyeste gir.",
+        "artnr": "2508.K",
+        "hmsnr": "314688",
+        "compatible_all" : "true",
+        "is_negotiated": true
+    },
+    {
+        "id": 103,
+        "name": "Nexus 8-gir, lukket gir",
+        "image": {
+            "src" : "/images/products/addons/nexus-8-gir-lukket.jpeg",
+            "altText" : "Komplett Shimano Nexus 8-girs internt navsystem med girvelger"
+        },
+        "description": "307% forskjell mellom 1. og 8. gir.",
+        "artnr": "25051.K",
+        "hmsnr": "314692",
+        "compatible_products": [4],
+        "is_negotiated": true
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "text": "Jeg føler meg rett og slett stolt når jeg sitter på sykkelen!",
+        "author": "Tina",
+        "image": {
+            "src": "/images/testimonials/tina.jpeg",
+            "altText" : "Dame i sort liggesykkel, sett fra siden, på en sandstrand med sjø bak"
+        },
+        "product_ids": [1]
+    },
+    {
+        "id": 2,
+        "text": "Om dere har mulighet til å få tak i en sykkel fra Quality Care, så ikke nøl et sekund.",
+        "author": "Solrun",
+        "image": {
+            "src": "/images/testimonials/solrun.jpg",
+            "altText" : "Dame sett forfra på liggesykkel, sorte klær, rødt hår, med liten hund i bånd"
+        },
+        "product_ids": [2]
+    }
+]

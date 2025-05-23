@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "KettwieselOne EP8 (2024 → )",
+        "subtitle": "Bruksanvisning",
+        "description": "",
+        "product": "Kettwiesel EP8",
+        "type": "Bruksanvisning",
+        "order" : 1,
+        "file": ""
+    },
+    {
+        "id": "2",
+        "title": "Kettwiesel med Heinzmann (2014-2017)",
+        "subtitle": "Monteringsanvisning",
+        "description": "",
+        "product": "Kettwiesel",
+        "type": "Montering, service & feilsøking",
+        "order" : 2,
+        "file": ""
+    },
+    {
+        "id": "14",
+        "title": "Fotholder/hviler",
+        "subtitle": "Sprengskisse",
+        "description": "",
+        "product": "Fotholder",
+        "type": "Sprengskisse",
+        "order" : 3,
+        "file": ""
+    }
+]

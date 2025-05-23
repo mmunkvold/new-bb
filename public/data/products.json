@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1,
+        "status": "hidden",
+        "name": "Kettwiesel",
+        "slug": "kettwiesel", 
+        "metaTitle" : "Kettwiesel liggesykkel",
+        "metaDescription" : "Oppdag Kettwiesel, en allsidig liggesykkel med høy komfort og tilpasningsmuligheter.",
+        "with" : "med Heinzman hjelpemotor i forhjul",
+        "pitch" : "En smidig og stabil trehjulssykkel med lavt tyngdepunkt, kjent for sin utmerkede svingradius og kjøreglede.",
+        "images": [
+            { 
+                "src": "/images/products/kettwiesel/kettwiesel1.png",
+                "altText" : "Liggesykkel med røde fargeinnslag, to hjul bak, ett hjul foran. Håndstyring"
+            },
+            { 
+                "src": "/images/products/kettwiesel/kettwiesel2.jpg",
+                "altText" : "Eldre dame på rød liggesykkel i fart foran en gammel bygning i teglstein, sola skinner"
+            }
+        ],
+        "features": [
+            "Lavt tyngdepunkt for høy sikkerhet",
+            "Svært manøvrerbar med liten svingradius"
+        ],
+        "is_negotiated": false,
+        "heading" : "En god og stødig sykkel for alle!",
+        "short_desc": "En meget god og stødig sykkel. Rammen til Kettwiesel kan tilpasses alle, uansett om du er liten eller stor.",
+        "desc_1" :"Vi anbefaler Rohloff lukket 14-gir til alle Kettwiesel og Lepus. Ved bakkestopp i tungt gir har du mulighet til å skifte til et lettere gir, selv når sykkelen står stille.",
+        "desc_2" :"",
+        "drawings" : [
+            { 
+                "src": "/images/products/kettwieselEP8/svingradius.png",
+                "altText" : "tegn 1",
+                "heading": "Svært liten svingradius",
+                "caption" : "Takket være sin utforming har trehjulssykkelen svært liten svingradius. Dette er en stor fordel ved parkering."
+            }
+        ],
+        "category": "liggesykkel",
+        "user_category": ["voksen", "barn"],
+        "artnr": "2413",
+        "hmsnr": "196003",
+        "specifications": {
+            "weight": "Vekt sykkel: 32,5 kg",
+            "userWeight": "Brukervekt: 140 kg når sykkelen har maks lengde",
+            "frame": "Ramme: Aluminium",
+            "wheels": "Hjul foran/bak: 20”",
+            "brakes": "Bremser: Hydrauliske skivebremser bak og mekaniske foran",
+            "maxWidth": "Maksbredde: 86 cm",
+            "seatHeight": "Setehøyde: 44-50 cm",
+            "totalLength": "Totallengde: 171-221 cm",
+            "folded": "Sammenlagt: Høyde 96 cm, lengde 140 cm",
+            "userHeight": "Høyde bruker: 115-200 cm",
+            "inseam": "Skrittlengde: 55-105 cm",
+            "motor": "Motor: Heinzmann DirectPower, 250W/60 Nm",
+            "battery": "Batteri: Heinzmann, 504 Wh",
+            "gears": "Antall gir: 14 gir"
+        },
+        "brochure_url": "url til brosjyre",
+        "video_url": "https://youtu.be/16K5FQnN23I?feature=shared",
+        "more_info_url": "url til et 1-sides infoark",
+        "addons": [ 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 115, 116, 117, 119, 120, 121, 122, 126, 127, 128 ]
+    },
+    {
+        "id": 2,
+        "status": "published",
+        "name": "Kettwiesel EP8",
+        "slug": "kettwiesel-ep8", 
+        "metaTitle" : "Kettwiesel EP8 - Elektrisk liggesykkel med topp komfort",
+        "metaDescription" : "Kettwiesel EP8 er en fullt dempet, elektrisk liggesykkel for voksne. Ideell for deg som ønsker høy komfort og aktiv bruk i hverdagen.",
+        "with" : "",
+        "pitch" : "En toppmoderne, elektrisk trehjulssykkel med full fjæring og foldbar ramme, som kombinerer komfort med ytelse.",
+        "images": [
+            { 
+                "src": "/images/products/kettwieselEP8/ep8-1.jpg",
+                "altText" : "Liggesykkel med grå fargeinnslag, to hjul bak, ett hjul foran. Håndstyring."
+            },
+            { 
+                "src": "/images/products/kettwieselEP8/ep8-2.jpg",
+                "altText" : "Liggesykkel foldet sammen"
+            }
+        ],
+        "features": [
+            "Lavt tyngdepunkt for høy sikkerhet",
+            "Svært manøvrerbar med liten svingradius",
+            "Mulighet for full demping",
+            "Kan parkeres på høykant for å spare plass",
+            "Kan brukes som heng-etter sykkel"
+        ],
+        "is_negotiated": true,
+        "heading": "Vår liggesykkel nr 1!",
+        "short_desc": "Kettwiesel EP8 er på mange måter vår toppselger, vår liggesykkel nr 1!",
+        "desc_1":"EP8 er en trehjuls, teleskopisk, liggesykkel som møter brukers små og store utfordringer på en enestående måte og kan tilpasses ethvert behov - fot og armamputasjon, Dysmeli, Cerebral Parese og slag for å nevne noen.",
+        "desc_2":"Ett hjul framme og to hjul bak, demper i front og uavhengig dempesystem bak, gir denne fantastiske sykkelen klassens beste svingradius, stabilitet og fremkommelighet.",
+        "desc_3": "Med en 250W Shimano STEPS hjelpemotor blir denne sykkelopplevelsen en drøm, og kan veldig raskt snu opp ned på brukerens aktivitetsbehov.",
+        "desc_4": "Vi tilbyr i tillegg en rekke ulike tilbehør for EP8 som kan øke og optimalisere din sykkelopplevelse. Disse finner du beskrevet under 'Mer informasjon' her på denne siden.",
+        "drawings" : [
+            { 
+                "src": "/images/products/kettwieselEP8/svingradius.png",
+                "altText" : "tegn 1",
+                "heading": "Svært liten svingradius",
+                "caption" : "Takket være sin utforming har trehjulssykkelen svært liten svingradius. Dette er en stor fordel ved parkering."
+            },
+            { 
+                "src": "/images/products/kettwieselEP8/parkering.png",
+                "altText" : "tegn 2",
+                "heading": "Spar plass ved parkering",
+                "caption" : "Man kan spare plass ved å parkere med sykkelen på høykant."
+            }
+        ],
+        "extra_info" : [
+            { 
+                "src": "/images/products/kettwieselEP8/display.jpeg",
+                "altText" : "ext 1",
+                "heading": "Skift modus enkelt på displayet",
+                "caption" : "EP8 har 3 ulike nivåer av motorassist. Syklisten kan enkelt veksle mellom disse modusene med et tastetrykk på displayet."
+            },
+            { 
+                "src": "/images/products/kettwieselEP8/demping.jpeg",
+                "altText" : "ext 2",
+                "heading": "Full demping",
+                "caption" : "EP8 kommer med full demping som standard: uavhengig demping på hvert hjul, luftdemper og hjørnestabilitets-kontroll som på en bil. En sporty sykkeltur trenger absolutt ikke være ubehagelig."
+            }
+        ],
+        "category": "liggesykkel",
+        "user_category": ["voksen", "barn"],
+        "artnr": "1401",
+        "hmsnr": "290234",
+        "hms_url": "https://finnhjelpemiddel.nav.no/produkt/ad709064-01fa-4b4b-a549-dd4df4920cef?term=Sykkel",
+        "specifications": {
+            "weight": "Vekt sykkel: 32,5 kg",
+            "userWeight": "Brukervekt: 140 kg når sykkelen har maks lengde",
+            "frame": "Ramme: Aluminium",
+            "wheels": "Hjul foran/bak: 20”",
+            "brakes": "Bremser: Hydrauliske skivebremser bak og mekaniske foran",
+            "maxWidth": "Maksbredde: 86 cm",
+            "seatHeight": "Setehøyde: 44-50 cm",
+            "totalLength": "Totallengde: 171-221 cm",
+            "folded": "Sammenlagt: Høyde 96 cm, lengde 140 cm",
+            "userHeight": "Høyde bruker: 115-200 cm",
+            "inseam": "Skrittlengde: 55-105 cm",
+            "motor": "Motor: Shimano EP8,250W/85 Nm",
+            "battery": "Batteri: Shimano BT-E8016, 630 Wh",
+            "gears": "Antall gir: 14 gir"
+        },
+        "brochure_url": "url til brosjyre",
+        "video_url": "https://youtu.be/Ra0oumK0SKg",
+        "more_info_url": "url til et 1-sides infoark",
+        "addons": [ 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 113, 114, 115, 116, 117, 119, 120, 121, 122, 126, 127, 128 ]
+    }
+]

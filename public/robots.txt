@@ -1,0 +1,12 @@
+User-agent: *
+# Tillater crawling av alt som standard
+Disallow: 
+
+# Legg eventuelt til sider/mapper du IKKE vil ha indeksert senere, f.eks.:
+# Disallow: /min-side/
+# Disallow: /api/ 
+# Disallow: /*?sort=* # Eksempel for å blokkere URL-parametre
+
+# VIKTIG: Pek til sitemap for Vue-appen din!
+# Erstatt URL under med den faktiske URLen til ditt sitemap når det er generert.
+Sitemap: https://quality-care.no/sitemap.xml

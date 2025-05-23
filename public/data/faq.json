@@ -1,0 +1,20 @@
+[
+    {
+      "id": "faq-kostnad-provetime",
+      "question": "Koster det noe å prøve sykkel?",
+      "answer": "Det koster ingenting. Prøvetimen er helt gratis og uforpliktende. Trykk på 'bestill prøvetime', og så avtaler vi sted og tid for utprøving.",
+      "keywords": "pris, prøve, gratis, prøvetime",
+      "link": "/bestill-provetime#faq",
+      "type": "FAQ",
+      "contexts": ["bestill-provetime", "generelt"]
+    },
+    {
+      "id": "faq-vite-sykkel-forhaand",
+      "question": "Må jeg vite hvilken sykkel jeg vil teste på forhånd?",
+      "answer": "Vi hjelper deg med å finne riktig modell ut fra dine behov.",
+      "keywords": "velge sykkel, modell, test, behov",
+      "link": "/bestill-provetime#faq",
+      "type": "FAQ",
+      "contexts": ["bestill-provetime"]
+    }
+]

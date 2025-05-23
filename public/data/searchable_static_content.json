@@ -1,0 +1,51 @@
+[
+    {
+        "id": "om-oss-generelt",
+        "pageTitle": "Om oss",
+        "sectionTitle": "Om Quality Care AS",
+        "keywords": "livsglede, mestring, frihet, tilpassede sykler, motto", 
+        "searchableText": "Vi er Norges spesialsykkel-eksperter. Siden 2005 har vi hjulpet barn og voksne med tilpassede sykler for økt livsglede og mestring. Vi leverer kvalitet fra Hase Bikes og skreddersyr løsninger for dine behov.",
+        "link": "/om-oss"
+    },
+    {
+        "id": "om-oss-kjerneverdier",
+        "pageTitle": "Om oss",
+        "sectionTitle": "Våre kjerneverdier",
+        "keywords": "kvalitet, hase bikes, mestring, livsglede, fagfolk, erfaring", 
+        "searchableText": "Kvalitet - Vi leverer kun produkter og tjenester av høyeste standard, fra anerkjente produsenter som Hase Bikes. Kundefokus - Dine behov, din mestring og din livsglede står alltid i sentrum for vårt arbeid. Kompetanse - Med både ergoterapeuter og fysioterapeuter på laget, samt 20 års erfaring sikrer vi i Quality Care trygge og riktige løsninger.",
+        "link": "/om-oss#kjerneverdi"
+    },
+    {
+        "id": "om-oss-filosofi",
+        "pageTitle": "Om oss",
+        "sectionTitle": "Vår filosofi",
+        "keywords": "sykkelglede, mestring, frihet, tilpassede sykler, motto", 
+        "searchableText": "Vi tror på sykkelglede for alle - uavhengig av alder eller funksjonsnivå. Vårt mål er å åpne dører til aktivitet, mestring og frihet gjennom spesialtilpassede sykler. Derfor er også vårt motto: Opplevelse av mestring gjennom aktivitet for alle! En sykkel er mer enn et fremkomstmiddel. Den er et verktøy for rehabilitering, sosial deltakelse og ren glede. Av den grunn legger vi vår stolthet i å finne den perfekte match mellom sykkel og syklist.",
+        "link": "/om-oss#filosofi"
+    },
+    {
+        "id": "kontakt-info-generelt",
+        "pageTitle": "Kontakt oss ",
+        "sectionTitle": "Kontakt Quality Care AS",
+        "keywords": "telefon, epost, adresse, åpningstider, kart, kontaktperson",
+        "searchableText": "Har du spørsmål om spesialsykler, aktivitetshjelpemidler eller NAV-støtte? Vi er her for å hjelpe deg - enten du vil bestille en prøvetime, få teknisk support eller bare lurer på hvordan du kommer i gang.",
+        "link": "/kontakt-oss"
+    },
+    {
+        "id": "arrangementer",
+        "pageTitle": "Arrangementer",
+        "sectionTitle": "Kom og møt oss",
+        "keywords": "sykkeldag, aktivitetsdag, hjelpemiddelmesse, prøve",
+        "searchableText": "Vi arrangerer sykkel- og aktivitetsdager Arrangement for visning og utprøving av spesialtilpassede sykler, samt demonstrasjoner av våre spesialsykler rundt om i hele landet. I tillegg deltar vi på hjelpemiddelmesser Stor messe som viser et bredt spekter av ulike tekniske hjelpemidler fra mange leverandører.. Dette er en unik mulighet til å prøve spesialsykkel i trygge og tilrettelagte omgivelser - helt gratis og uten forpliktelser. På arrangementene får du: Personlig veiledning fra våre spesialsykkelrådgivere, mulighet til å teste flere ulike modeller, hjelp til å forstå veien videre mot støtte fra NAV, arrangementene er åpne for brukere, pårørende og terapeuter. Bruk søkefeltet eller filtrene for å finne kommende arrangementer i ditt fylke. Vi oppdaterer listen fortløpende! Finner du ikke et arrangement som passer for deg? Bestill gratis prøvetime hjemme hos deg!",
+        "link": "/arrangementer"
+    },
+    {
+        "id": "info-bruker-intro",
+        "pageTitle": "Spesialsykler for barn og voksne",
+        "sectionTitle": "Slik får du riktig hjelpemiddel",
+        "keywords": "spesialsykkel, barn, voksne, hjelpemiddel, frihet, aktivitet, mestring, fritid, trening, NAV",
+        "searchableText": "Ønsker du eller noen du er glad i mer frihet, aktivitet og mestring i hverdagen? Vi hjelper både barn og voksne med å finne den spesialsykkelen som passer deres behov - enten det er til fritid, trening eller som aktivitetshjelpemiddel.",
+        "link": "/bruker",
+        "type": "Info for bruker"
+    }
+]

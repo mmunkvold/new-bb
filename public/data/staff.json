@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "Asbjørn Sommervold",
+        "position": "Daglig leder",
+        "number": "932 81 692",
+        "email": "asbjorn@quality-care.no",
+        "photo": "/images/staff/asbjorn.jpeg",
+        "workLocation": "office"
+    },
+    {
+        "id": 2,
+        "districtIds": [5],
+        "name": "Erik Gevelt",
+        "position": "Distriktssjef/Fysioterapeut",
+        "number": "991 20 388",
+        "email": "erik@quality-care.no",
+        "photo": "/images/staff/erik.jpeg",
+        "workLocation": "field"
+    },
+    {
+        "id": 3,
+        "districtIds": [4, 7, 11],
+        "name": "Jon Petter Dahlen",
+        "position": "Agent/Forhandler",
+        "number": "977 07 893",
+        "email": "jp@caretec.no",
+        "photo": "/images/staff/jonpetter.jpeg",
+        "workLocation": "field"
+    },
+    {
+        "id": 4,
+        "name": "Pawel Kaszewski",
+        "position": "Tekniker",
+        "number": "925 19 488",
+        "email": "pawel@quality-care.no",
+        "photo": "/images/staff/pawel.jpeg",
+        "workLocation": "technical"
+    }
+]
